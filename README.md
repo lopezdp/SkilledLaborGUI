@@ -34,7 +34,7 @@ The customer interface screen will display all employees available for work acco
 #### Engineering Dashboard - (Should Have)
 - [] Display documentation queue (RFI, COR, PayApp, Transmittal, etc)
 - [] Display estimating platform
-- [] Display Scheduling platofrm
+- [] Display Scheduling platform
 
 #### Admin Dashboard
 - [] Display resource input/qualification screen (Mgr/Emp/Client input)
@@ -54,7 +54,7 @@ The customer interface screen will display all employees available for work acco
 - [] Display employee training
 - [] Display emplyee skill level and "skillQual" gamification score
 
-#### Client Dashboard
+#### Client/Contractor Dashboard
 - [] Display "Baseball Card" style list of available employees
 - [] Display current Accounts Payable per project, customer, and payroll perirod
 - [] Display Available payment methods
@@ -64,6 +64,14 @@ The customer interface screen will display all employees available for work acco
 - [] Display quantified work in place by project, customer, and payroll period
 - [] Display Rating/Review/Testimonial Entry screen
 - [] Display list of current Material Requisition Forms to approve
+
+#### Safety & Project Assurance Dashboard
+
+#### Training & QA/QC Dashboard
+
+#### Business Development Dashboard
+
+#### Human Resources Dashboard
 
 ### Inputs
 
@@ -138,28 +146,32 @@ The customer interface screen will display all employees available for work acco
 	* Preferences & Settings
 		- [] Select Permissions
 			1. Set permissions for each user type
+				* Admin Roles
 				* Employees
 				* Field Mgr
 				* Accounting
 				* Engineering
 				* Clients
+				* Safety
+				* Human Resources
+				* Sales
+				* Training & QA/QC
 			2. Set account email
 			3. Change Password
 			4. Customize GUI settings
-			5.
-
-    - [] Display permissions & security settings
-    - [] Display reporting Queue
-    - [] Display list of current Material Requisition Forms to approve
-
+			5. Assign User Roles
 
 #### Employee Dashboard
 
-#### Client Dashboard
+#### Client/Contractor Dashboard
 
+#### Safety & Project Assurance Dashboard
 
+#### Training & QA/QC Dashboard
 
+#### Business Development Dashboard
 
+#### Human Resources Dashboard
 
 ### Processes
 
