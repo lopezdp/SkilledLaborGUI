@@ -1,4 +1,5 @@
-# Skilled Construction Man Power. Billing & Resource Tracking with Precision.
+# Skilled Construction Man Power.
+# *Billing & Resource Tracking with Precision.*
 ## Specifications & System Requirements Document
 
 The scope of this project will include the development of a web based and/or iOS application that is designed to manage the day to day man power tracking and production reporting of a skilled labor company dedicated to providing skilled labor and man power to the construction industry. The application will be designed to keep track of the following information:
@@ -81,7 +82,7 @@ The customer interface screen will display all employees available for work acco
 	* Amount Billable (default filter by customer ONLY)
 	* Amount payable (default filter by employee ONLY)
 	* Quantifiable Production (default filter by project and by employee
-- [] User must select filter values on drop down menu by project, customer, and payroll period
+- [] User must select filter labor values on drop down menu by project, customer, and payroll period
 - [] User must enter values to be paid for materials by project, customer, and payroll period
 - [] User must approve values to be paid against AP
 - [] User must enter payments received against AR
@@ -162,6 +163,7 @@ The customer interface screen will display all employees available for work acco
 			5. Assign User Roles
 
 #### Employee Dashboard
+
 
 #### Client/Contractor Dashboard
 
